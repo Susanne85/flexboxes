@@ -19,4 +19,4 @@ On a tablet
 
 On a desktop
 
-![Display on a desktop](./assets/images/01-app-tablet.png)
+![Display on a desktop](./assets/images/01-app-desktop.png)
